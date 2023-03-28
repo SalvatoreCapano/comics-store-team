@@ -11,25 +11,20 @@
                 </svg>
             </div>
             <h1 class="display-5 fw-bold">
-                <<<<<<< HEAD
-                <<<<<<< HEAD
                             Comics by Felo, Matte, Salvo, Luca, Iak
             <button>
                 <a href=""> Vedi comics</a>
             </button>
-                =======
-                                Ciao bellissimi è stato bello addiosssssssssssssssssssssssssssssss
-                >>>>>>> origin/feat/welcome-view
-                =======
-                                Ciao bellissimi è stato bello addiosssssssssssssssssssssssssssssss
-                >>>>>>> cc6733b37548e31e5db6821f99df993d695d6e75
+
+                Ciao bellissimi è stato bello addiosssssssssssssssssssssssssssssss
+
             </h1>
             <main>
                 main 1 2 3
             </main>
             <footer>
                 <div>
-                    footer bellissimo fichissimo
+                    footer bruttissimo
                 </div>
             </footer>
         </div>
