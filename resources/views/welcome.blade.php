@@ -13,6 +13,11 @@
             <h1 class="display-5 fw-bold">
             Comics by Felo, Matte, Salvo, Luca, Iak
             </h1>
+            <footer>
+                <div>
+                    footer bellissimo fichissimo
+                </div>
+            </footer>
         </div>
     </div>
 
