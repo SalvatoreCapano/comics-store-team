@@ -24,6 +24,11 @@
                 Ciao bellissimi è stato bello addiosssssssssssssssssssssssssssssss
 >>>>>>> cc6733b37548e31e5db6821f99df993d695d6e75
             </h1>
+            <footer>
+                <div>
+                    footer bellissimo fichissimo
+                </div>
+            </footer>
         </div>
     </div>
 
