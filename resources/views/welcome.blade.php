@@ -16,15 +16,15 @@
                 <a href=""> Vedi comics</a>
             </button>
 
-                Ciao bellissimi è stato bello addiosssssssssssssssssssssssssssssss
+                
 
             </h1>
             <main>
-                main 1 2 3
+                
             </main>
             <footer>
                 <div>
-                    footer bruttissimo
+                    
                 </div>
             </footer>
         </div>
@@ -33,7 +33,7 @@
     <div class="content">
         <div class="container">
             <p>
-                nooooooooooooooooooooooooooooooooooooooooooooooooooo ripperoni a me cya cya cya cya cya sad me sad me ☠️☠️☠️☠️☠️☠️☠️
+                
             </p>
         </div>
     </div>
