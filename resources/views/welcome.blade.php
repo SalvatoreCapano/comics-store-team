@@ -12,6 +12,7 @@
             </div>
             <h1 class="display-5 fw-bold">
 <<<<<<< HEAD
+<<<<<<< HEAD
             Comics by Felo, Matte, Salvo, Luca, Iak
             <button>
                 <a href=""> Vedi comics</a>
@@ -19,6 +20,9 @@
 =======
                 Ciao bellissimi è stato bello addiosssssssssssssssssssssssssssssss
 >>>>>>> origin/feat/welcome-view
+=======
+                Ciao bellissimi è stato bello addiosssssssssssssssssssssssssssssss
+>>>>>>> cc6733b37548e31e5db6821f99df993d695d6e75
             </h1>
         </div>
     </div>
