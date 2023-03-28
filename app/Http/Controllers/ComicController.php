@@ -6,6 +6,8 @@ use App\Models\Comic;
 use App\Http\Requests\StoreComicRequest;
 use App\Http\Requests\UpdateComicRequest;
 
+
+
 class ComicController extends Controller
 {
     /**
@@ -58,7 +60,7 @@ class ComicController extends Controller
      */
     public function edit(Comic $comic)
     {
-        
+        return view('admin.comics.edit', compact('comic'));
     }
 
     /**
@@ -68,9 +70,19 @@ class ComicController extends Controller
      * @param  \App\Models\Comic  $comic
      * @return \Illuminate\Http\Response
      */
-    public function update(UpdateComicRequest $request, Comic $comic)
+    public function update(UpdateComicRequest $request, $id)
     {
-        //
+        $comic = Comic::findOrFail($id);
+
+        // Prendo i dati
+        $data = $request->all();
+
+        // Richiamo la funzione validateData() per validate i dati
+        $this->validateData($data);
+
+        $comic->update($data);
+
+        return redirect()->route('admin.comics.show', $comic->id);
     }
 
     /**
