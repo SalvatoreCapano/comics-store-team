@@ -12,6 +12,9 @@
             </div>
             <h1 class="display-5 fw-bold">
             Comics by Felo, Matte, Salvo, Luca, Iak
+            <button>
+                <a href="{{ route::index.blade }}"> Vedi comics</a>
+            </button>
             </h1>
         </div>
     </div>
