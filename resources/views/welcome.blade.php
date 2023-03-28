@@ -11,17 +11,23 @@
                 </svg>
             </div>
             <h1 class="display-5 fw-bold">
+<<<<<<< HEAD
             Comics by Felo, Matte, Salvo, Luca, Iak
             <button>
                 <a href=""> Vedi comics</a>
             </button>
+=======
+                Ciao bellissimi è stato bello addiosssssssssssssssssssssssssssssss
+>>>>>>> origin/feat/welcome-view
             </h1>
         </div>
     </div>
 
     <div class="content">
         <div class="container">
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora temporibus, dicta nemo aliquam totam nisi deserunt soluta quas voluptatum ab beatae praesentium necessitatibus minus, facilis illum rerum officiis accusamus dolores!</p>
+            <p>
+                nooooooooooooooooooooooooooooooooooooooooooooooooooo ripperoni a me cya cya cya cya cya sad me sad me ☠️☠️☠️☠️☠️☠️☠️
+            </p>
         </div>
     </div>
 @endsection
