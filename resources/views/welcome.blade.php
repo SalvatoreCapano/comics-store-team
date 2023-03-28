@@ -11,7 +11,10 @@
                 </svg>
             </div>
             <h1 class="display-5 fw-bold">
-                Welcome to Laravel+Bootstrap 5
+            Comics by Felo, Matte, Salvo, Luca, Iak
+            <button>
+                <a href=""> Vedi comics</a>
+            </button>
             </h1>
         </div>
     </div>
