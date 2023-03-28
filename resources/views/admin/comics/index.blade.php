@@ -9,6 +9,9 @@
 </head>
 
 <body>
+    <button>
+        <a href="{{ route('comics.create')}}"> Crea nuovo Comic </a>
+    </button>
     <table class="table">
         <thead>
             <tr>
